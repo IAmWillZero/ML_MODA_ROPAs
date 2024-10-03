@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+*.whl
+
+# Entornos virtuales
+venv/
+env/
+ENV/
+.venv/
+.env/
+
+# Archivos de configuración de IDE
+.idea/
+.vscode/
+
+# Archivos de Jupyter Notebook
+.ipynb_checkpoints/
+
+# Archivos de imagen generados o temporales
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+
+# Archivos de configuración de Streamlit
+.streamlit/secrets.toml
+
+# Archivos de registro
+*.log
+
+# Otros archivos temporales
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
+
+# Archivos de datos
+data/*.csv
+data/*.xlsx
